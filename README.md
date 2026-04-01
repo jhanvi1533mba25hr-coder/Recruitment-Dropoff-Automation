@@ -26,9 +26,9 @@ It helps recruiters identify High, Medium, and Low risk candidates and send auto
    - High (>4 days)
    - Medium (>2 days)
    - Low (<=2 days)
-4. Data stored in processed sheet
-5. Email sent to candidate
-6. Alert sent to recruiter
+3. Data stored in processed sheet
+4. Email sent to candidate
+5. Alert sent to recruiter
 
 ## 📊 Dashboard Insights
 - Total Candidates
