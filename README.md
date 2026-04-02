@@ -62,6 +62,11 @@ This project automates candidate tracking and:
 9. Dashboard updated with insights
 10.  <img width="2000" height="949" alt="image" src="https://github.com/user-attachments/assets/64f2b4d1-efb4-4469-8c16-9a263635daba" />
 
+## 🔄 n8n Workflow File
+Download the workflow JSON file from below:
+
+file:///C:/Users/HP/Downloads/Recruitment%20Dropoff%20Automation.json
+
 ---
 
 ## ⚙️ Risk Classification Logic
