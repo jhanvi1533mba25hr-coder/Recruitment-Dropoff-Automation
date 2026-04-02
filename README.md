@@ -1,5 +1,3 @@
-<img width="2000" height="949" alt="image" src="https://github.com/user-attachments/assets/6d7cd916-d4ce-4f55-b280-7fe57a660963" /><img width="2000" height="949" alt="image" src="https://github.com/user-attachments/assets/2a759965-47cf-4268-b53f-1ed34764f5aa" /># Recruitment Drop-off Automation using n8n
-
 ## 📌 Project Overview
 Recruitment Drop-off Automation is an AI-enabled workflow designed to identify candidates who are at risk of dropping out during the hiring process. The system monitors candidate engagement using Google Sheets data and automatically classifies candidates into High, Medium, and Low risk categories based on the number of days since last contact.
 
