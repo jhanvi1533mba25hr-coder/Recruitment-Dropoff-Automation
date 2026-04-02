@@ -53,7 +53,7 @@ This project automates candidate tracking and:
 4. Risk Level assigned:
    - High Risk (>4 days)
    - Medium Risk (>2 days)
-   - Low Risk (<=2 days)
+   - Low Risk (<2 days)
 5. Risk Level added to data
 6. Data merged and stored in processed sheet
 7. Follow-up email sent to candidate
