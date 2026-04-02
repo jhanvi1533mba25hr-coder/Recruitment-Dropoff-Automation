@@ -65,7 +65,7 @@ This project automates candidate tracking and:
 ## 🔄 n8n Workflow File
 Download the workflow JSON file from below:
 
-file:///C:/Users/HP/Downloads/Recruitment%20Dropoff%20Automation.json
+[Download Workflow](Recruitment%20Dropoff%20Automation.json)
 
 ---
 
