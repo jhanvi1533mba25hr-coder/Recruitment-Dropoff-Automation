@@ -66,8 +66,8 @@ This project automates candidate tracking and:
 ## ⚙️ Risk Classification Logic
 | Days Since Last Contact | Risk Level |
 |-------------------------|------------|
-| 0-2 Days                | Low        |
-| 3-4 Days                | Medium     |
+| 0-1 Days                | Low        |
+| 2-4 Days                | Medium     |
 | >4 Days                 | High       |
 
 ---
