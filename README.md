@@ -6,12 +6,13 @@ The automation helps recruiters take timely action by sending alerts and follow-
 ---
 
 ## 🎯 Problem Statement
-In recruitment processes, many candidates drop off due to:
-- Delayed recruiter communication
-- Lack of follow-ups
-- Poor tracking of candidate engagement
-- Manual monitoring inefficiencies
-- No risk prediction mechanism
+
+A company is hiring for multiple roles, where one recruiter is managing 18 candidates in the recruitment pipeline.  
+Several candidates stop responding after applying or after interviews, causing delays in hiring and increased recruitment costs.  
+The recruiter finds it difficult to track communication status and identify candidates who need immediate follow-up.  
+
+Manual monitoring is time-consuming and error-prone, leading to missed follow-ups.  
+This increases candidate drop-offs and creates inefficiencies in the recruitment process.
 
 This leads to:
 - Increased hiring time
